@@ -1,5 +1,3 @@
-//This is just another comment
-
 
 /*import java.util.ArrayList;
 import java.util.Arrays;
